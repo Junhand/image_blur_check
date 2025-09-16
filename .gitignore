@@ -1,0 +1,5 @@
+# pixi environments
+.pixi
+input_data
+output_image
+*.csv
